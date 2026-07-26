@@ -20,7 +20,7 @@ corr.type = "pearson", seed = 0)
   \item{seed}{seed value (scalar, default is 0).}
 }
 \value{
-{data}{Sample of data}
+A matrix containing the generated sample of data.
 }
 \references{
 Ruscio & Kaczetow (2008)

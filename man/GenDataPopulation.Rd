@@ -1,6 +1,6 @@
 \name{GenDataPopulation}
 \alias{GenDataPopulation}
-\title{{GenDataPopulation}
+\title{GenDataPopulation
 }
 \description{Simulates multivariate nonnormal data using an iterative algorithm
 }
@@ -18,7 +18,7 @@ GenDataPopulation(supplied.data, n.factors, n.cases, max.trials = 5,
    \item{seed}{seed value (scalar, default is 0).}
 }
 \value{
-{data}{Population of data}
+A matrix containing the generated population of data.
 }
 \references{
 Ruscio & Roche (2011)
